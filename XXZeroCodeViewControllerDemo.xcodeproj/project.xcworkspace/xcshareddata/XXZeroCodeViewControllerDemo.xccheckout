@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>963DC7D1-1C53-4803-A6B6-97465BA9530C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XXZeroCodeViewControllerDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7F643A74-B387-44E7-846E-568C2C527B6A</key>
+		<string>https://github.com/sunnyxx/XXZeroCodeViewControllerDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XXZeroCodeViewControllerDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7F643A74-B387-44E7-846E-568C2C527B6A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sunnyxx/XXZeroCodeViewControllerDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7F643A74-B387-44E7-846E-568C2C527B6A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7F643A74-B387-44E7-846E-568C2C527B6A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XXZeroCodeViewControllerDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
